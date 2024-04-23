@@ -5,6 +5,6 @@
 Aplikacja umożliwia symulację działania układu dynamicznego (model silnika elektrycznego) oraz wizualizację wyników za pomocą wykresów. Użytkownik może wybierać różne funkcje wejściowe (sinus, trójkąt, prostokąt) oraz dostosowywać parametry układu w celu analizy zachowania systemu.
 
 
-Authors:
+Autorzy:
 Maksymilian Burdziej
 Tobiasz Mańkowski
